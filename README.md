@@ -36,6 +36,8 @@ When prompted, enter the name of the file you want to analyze (e.g. mbox.txt) an
 ### Step 5
 The code will print out the email address that appears the most frequently in the file.
 
+![Screen](https://user-images.githubusercontent.com/52354386/236209476-aff7e139-65bf-48d2-b2c1-56f7e4db57a8.png)
+
 ## Credits
 
 This project was created by Serhii Dvornikov
